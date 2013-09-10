@@ -1,0 +1,11 @@
+.container {
+    margin: auto;
+    width: 520px;
+}
+.box{
+    border: 1px #000 solid;
+}
+.appbox{
+border: 1px #002a80 dashed;
+margin-top: 10px;
+}
